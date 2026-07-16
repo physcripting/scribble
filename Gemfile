@@ -1,27 +1,23 @@
 source "https://rubygems.org"
-gemspec
 
-gem "base64"
-gem "csv"
+gem "jekyll", "~> 4.4"
 
-gem "jekyll-github-metadata", ">= 2.15"
+# Theme
+gem "just-the-docs"
 
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-sitemap", group: :jekyll_plugins
+# Plugins
+group :jekyll_plugins do
+  gem "jekyll-include-cache"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-github-metadata", ">= 2.15"
+end
 
-group :development, :test do
-  gem "html-proofer", "~> 5.2"
+# Required for Ruby 3.x
+gem "webrick", "~> 1.8"
 
-  # Test Infrastructure
-  gem 'rack'
-  gem 'rackup'
-  gem 'rspec'
-  gem 'webrick'
-
-  # Frontend a11y tests
-  gem 'axe-core-capybara'
-  gem 'axe-core-rspec'
-  gem 'capybara'
-  gem 'capybara-screenshot'
-  gem 'selenium-webdriver'
+# Windows only
+platforms :mingw, :x64_mingw, :mswin do
+  gem "tzinfo"
+  gem "tzinfo-data"
 end
