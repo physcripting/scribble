@@ -10,3 +10,4 @@ This chapter provides brief intrudction to molecular dynamics (MD). For detailed
 Molecular dynamics (MD) simulations play a crucial role in computational chemistry, biophysics, and materials science by enabling researchers to model atomic and molecular interactions over time. These simulations are widely used for studying protein-ligand interactions, polymers, nucleic acids, and other complex biomolecular systems. GROMACS.
 
 Fundamental of moelcular dynamics will be discussed. Testing uploading
+test
