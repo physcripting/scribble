@@ -7,9 +7,10 @@ description: An interactive website documenting physics, programming, and relate
 
 # Just the Docs theme
 theme: just-the-docs
-baseurl: ""
+
 # GitHub Pages URL
-url: "https://physcripting.github.io/phys_scribble"
+url: "https://physcripting.github.io"
+baseurl: "/phys_scribble"
 
 
 # Repository information for GitHub metadata
