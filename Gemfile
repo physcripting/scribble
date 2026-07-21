@@ -7,6 +7,7 @@ gem "just-the-docs"
 
 # Plugins
 group :jekyll_plugins do
+  gem "jekyll-feed"
   gem "jekyll-include-cache"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
