@@ -1,5 +1,6 @@
 ---
 title: Chapter 15
+layout: default
 parent: Biophysics
 nav_order: 2
 math: true

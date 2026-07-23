@@ -1,5 +1,6 @@
 ---
 title: Chapter 14
+layout: default
 parent: Biophysics
 nav_order: 1
 ---
