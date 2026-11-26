@@ -2,7 +2,7 @@
 title: Chapter 14
 layout: default
 parent: Biophysics
-nav_order: 1
+nav_order: 2
 ---
 
 This chapter provides brief intrudction to molecular dynamics (MD). For detailed information, visit the  <a href="https://oit.siu.edu/rcc/" target="_blank"> SIUC Research Computing and Cyberingrastructure </a>  and read the official user documentation.

@@ -6,7 +6,7 @@ has_children: true
 math: true
 ---
 
-# Preface
+# Computational-Aided Modern Physics
 You specify the layout for 
 
 ## The layout concept

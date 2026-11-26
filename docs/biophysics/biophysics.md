@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Biophysics
+# Introduction to Biophysics of Biomolecules
 You specify the layout for 
 
 ## The layout concept

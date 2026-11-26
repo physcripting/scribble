@@ -2,7 +2,7 @@
 title: Chapter 15
 layout: default
 parent: Biophysics
-nav_order: 2
+nav_order: 3
 math: true
 render_with_liquid: false
 ---
