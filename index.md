@@ -1,5 +1,5 @@
 ---
-title: Physics Scribble
+title: Home
 layout: home
 nav_order: 1
 description: "Interactive resources for physics, programming, and computational science."
@@ -39,7 +39,7 @@ Many chapters include source code, scripts, and examples that you can download a
 
 ## License
 
-These materials are freely available for educational use. Please provide appropriate attribution to the author (P. Sivakumar) and the Physics Scribble website when redistributing or adapting the content.
+These materials are freely available for educational use. Please provide appropriate attribution to the author (Poopalasinga Sivakumar) and the Physics Scribble website when redistributing or adapting the content through citing.
 
 ## Acknowledgments
 
